@@ -1,0 +1,38 @@
+/* ul li:nth-child(2){
+    border: 2px solid red;
+}
+
+ul li:nth-child(4){
+    border: 2px solid red;
+} */
+
+/* ul li:nth-child(2n + 1){
+    border: 2px solid red;
+} */
+
+
+/* ul li:nth-child(odd){
+    border: 2px solid red;
+} */
+
+/* ul li:nth-child(even){
+    border: 2px solid red;
+} */
+
+
+/* ul li:nth-child(4n + 1){
+    border: 2px solid red;
+} */
+
+ul li:nth-child(4n + 4){
+    border: 2px solid red;
+}
+
+/* 4(0) + 4 = 4
+4(1) + 4 = 8
+4(2) + 4 = 12
+4(3) + 4 = 16
+4(4) + 4 = 20 */
+
+
+
